@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "mineflayer": "^3.0.0",
+    "mineflayer-pvp": "^1.0.0",
+    "mineflayer-pathfinder": "^1.0.0",
+    "mineflayer-armor-manager": "^1.0.0",
+    "mineflayer-auto-auth": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
