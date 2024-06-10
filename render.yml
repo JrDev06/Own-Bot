@@ -1,0 +1,9 @@
+name: minecraft-bot
+region: frankfurt
+services:
+  - type: web
+    name: bot
+    env:
+      PORT: 3000
+    command: npm start
+    repo: https://github.com/JrDev06/Own-Bot.git
